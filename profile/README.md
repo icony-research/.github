@@ -1,16 +1,41 @@
-## icony-research
+## ICONY Research
 
-This organization hosts research and open-source software
-developed by ICON YAMATO Co., Ltd.
+ICONY Research develops open-source tools for civil engineering, surveying, geospatial data processing, traffic analysis, and infrastructure workflows.
+These projects are published by ICONYAMATO Co., Ltd. for research, evaluation, and collaboration.
 
-Projects here are published for research, evaluation, and collaboration purposes.
+## Projects
 
-For inquiries:
+- [ZDrape](https://github.com/icony-research/zdrape)  
+  Add elevation to 2D DXF drawings from LAS/LAZ point clouds.
+
+- [LandXML2Tri](https://github.com/icony-research/LandXML2Tri)  
+  Convert LandXML TIN surfaces into triangle-per-line TXT files.
+
+- [MICHI-AI](https://github.com/icony-research/michi-ai)  
+  Analyze roadside video data for traffic counting and vehicle classification.
+
+## Contact
+
 opensource@icony.jp
 
-このリポジトリは、アイコンヤマト株式会社が開発した研究用およびオープンソースソフトウェアを公開しています。
-ここで公開されているプロジェクトは、研究、評価を目的としています。ライセンスの詳細は、それぞれのプロジェクトの
-ライセンス条項をご確認ください。
+---
 
-お問い合わせ：
+## 日本語
+
+ICONY Research は、土木・測量・地理空間データ処理・交通解析・インフラ実務を支援するオープンソースソフトウェアを公開しています。
+これらのプロジェクトは、アイコンヤマト株式会社が研究・評価・協業を目的として公開しています。
+
+## プロジェクト
+
+- [ZDrape](https://github.com/icony-research/zdrape)  
+  LAS/LAZ点群から2次元DXF図面へ標高（Z）を付加するツールです。
+
+- [LandXML2Tri](https://github.com/icony-research/LandXML2Tri)  
+  LandXMLのTINサーフェスを、三角形ごとのTXT形式へ変換するツールです。
+
+- [MICHI-AI](https://github.com/icony-research/michi-ai)  
+  路側動画から交通量・車種などを解析するためのオープンソースシステムです。
+
+## お問い合わせ
+
 opensource@icony.jp
