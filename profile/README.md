@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icony-research/.github/main/profile/cover.png" alt="ICONY Research - open-source tools for civil engineering, surveying, geospatial data, and traffic analysis">
+</p>
+
 ## ICONY Research
 
 ICONY Research develops open-source tools for civil engineering, surveying, geospatial data processing, traffic analysis, and infrastructure workflows.
