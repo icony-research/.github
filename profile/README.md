@@ -9,7 +9,7 @@ These projects are published by ICONYAMATO Co., Ltd. for research, evaluation, a
 
 ## Projects
 
-- [Topo-Sandbox](https://github.com/icony-research/topo-sandbox)
+- [Topo-Sandbox](https://github.com/icony-research/topo-sandbox)  
   Interactive AR sandbox for geography education, visualizing terrain, contours, water, and rivers in real time with Kinect v1.
 
 - [ZDrape](https://github.com/icony-research/zdrape)  
@@ -34,7 +34,7 @@ ICONY Research は、土木・測量・地理空間データ処理・交通解�
 
 ## プロジェクト
 
-- [Topo-Sandbox](https://github.com/icony-research/topo-sandbox)
+- [Topo-Sandbox](https://github.com/icony-research/topo-sandbox)  
   Kinect v1を使用し、地形、等高線、水、河川をリアルタイムで可視化する、地理教育用インタラクティブARサンドボックス。
   
 - [ZDrape](https://github.com/icony-research/zdrape)  
